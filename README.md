@@ -15,7 +15,7 @@ Esta aplicación está construida con **React** y ofrece una experiencia de usua
 ![Pink 3D Mockups Sales Pitch Sales Presentation (1)](https://github.com/user-attachments/assets/6b389d2c-34ae-48e1-b32a-d7ff3a66d059)
 
 # Demo 
-Haz click en el siguiente enlace: [Bolivian Recipes App]()
+Haz click en el siguiente enlace: [Bolivian Recipes App](https://marilynsaravia.github.io/Bolivian-Recipes-App/)
 
 # Tecnologías utilizadas
 
@@ -23,6 +23,25 @@ Haz click en el siguiente enlace: [Bolivian Recipes App]()
 - **[React](https://react.dev/):** Biblioteca de JavaScript para construir interfaces de usuario.
 - **[Vite](https://es.vitejs.dev/guide/):** Herramienta de construcción y desarrollo para aplicaciones web, que ofrece una experiencia rápida y moderna. 
 - **[TailwindCSS](https://tailwindcss.com/docs/guides/vite):** Framework de CSS para diseño.
+
+# Instalación 
+
+1. **Clona el repositorio:**
+```bash
+   git clone https://github.com/marilynsaravia/Bolivian-Recipes-App.git
+``` 
+2. **Navega al directorio del proyecto:**   
+```bash
+   cd Bolivian-Recipes-App
+```
+3. **Instala las dependencias:**
+```bash
+   npm install
+```
+4. **Ejecuta el servidor de desarrollo:**
+```bash
+   npm run dev
+```
 
 # Autora
 :v: [@marilynsaravia](https://github.com/marilynsaravia)
