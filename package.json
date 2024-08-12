@@ -11,7 +11,7 @@
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/marilynsaravia/Bolivian-Recipes-App",
+  "homepage": "https://marilynsaravia.github.io/Bolivian-Recipes-App/",
   "dependencies": {
     "@heroicons/react": "^2.1.5",
     "react": "^18.3.1",
