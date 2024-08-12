@@ -23,7 +23,7 @@ function App() {
     });
 
     return (
-        <Router>
+        <Router basename="/Bolivian-Recipes-App">
             <div className='w-full h-screen flex flex-col p-3 font-sans'>
                 <Navbar />
                 <Routes>
