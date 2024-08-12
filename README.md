@@ -1,8 +1,28 @@
-# React + Vite
+# Bolivian Recipes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación web estática que presenta algunas de las recetas más populares de Bolivia. Esta aplicación permite a los usuarios buscar, filtrar y guardar sus recetas favoritas.
 
-Currently, two official plugins are available:
+## Descripción
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esta aplicación está construida con **React** y ofrece una experiencia de usuario intuitiva para explorar recetas tradicionales bolivianas. Los usuarios pueden:
+
+- Buscar recetas por nombre.
+- Filtrar recetas por nivel de dificultad, tipo de comida, o cocina.
+- Guardar recetas como favoritas para un acceso rápido.
+  
+# Captura de pantalla
+
+![Pink 3D Mockups Sales Pitch Sales Presentation (1)](https://github.com/user-attachments/assets/6b389d2c-34ae-48e1-b32a-d7ff3a66d059)
+
+# Demo 
+Haz click en el siguiente enlace: [Bolivian Recipes App]()
+
+# Tecnologías utilizadas
+
+**Cliente:**
+- **[React](https://react.dev/):** Biblioteca de JavaScript para construir interfaces de usuario.
+- **[Vite](https://es.vitejs.dev/guide/):** Herramienta de construcción y desarrollo para aplicaciones web, que ofrece una experiencia rápida y moderna. 
+- **[TailwindCSS](https://tailwindcss.com/docs/guides/vite):** Framework de CSS para diseño.
+
+# Autora
+:v: [@marilynsaravia](https://github.com/marilynsaravia)
