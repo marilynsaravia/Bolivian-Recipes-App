@@ -386,8 +386,97 @@
         "Cuisine": "Oriental",
         "Type" : "Comida",
         "Servings": 6
-    }
-    
+    },
+    {
+        "Id": 12,
+        "Image": "Cuñape.PNG",
+        "Title": "Cuñapé",
+        "Description": "El cuñapé es un panecillo tradicional boliviano elaborado a base de almidón de yuca y queso. Es típico de la región oriental de Bolivia, especialmente de Santa Cruz, y se caracteriza por su textura suave por dentro y ligeramente crocante por fuera.",
+        "Ingredients": [
+          "500 g de almidón de yuca",
+          "250 g de queso fresco rallado (tipo chaqueño o similar)",
+          "2 huevos",
+          "60 g de mantequilla derretida",
+          "1/2 taza de leche",
+          "1 cucharadita de sal",
+          "1 cucharadita de polvo de hornear (opcional)"
+        ],
+        "Preparation": [
+          "Precalienta el horno a 180 °C.",
+          "En un bol grande, mezcla el almidón de yuca con la sal y el polvo de hornear si decides usarlo.",
+          "Agrega el queso rallado y mezcla bien.",
+          "Incorpora los huevos, la mantequilla derretida y la leche poco a poco hasta formar una masa suave y ligeramente pegajosa.",
+          "Forma bolitas medianas con la masa y colócalas en una bandeja para horno previamente engrasada o con papel vegetal.",
+          "Hornea durante 20-25 minutos o hasta que los cuñapés estén ligeramente dorados por fuera.",
+          "Retira del horno y deja reposar unos minutos antes de servir. Se disfrutan mejor calientes."
+        ],
+        "Difficulty": "Fácil",
+        "Cuisine": "Oriental",
+        "Type": "Desayuno",
+        "Servings": 6
+      },
+      {
+        "Id": 13,
+        "Image": "Asadito-camba.jpg",
+        "Title": "Asadito Camba",
+        "Description": "El asadito camba es un plato típico de la región oriental de Bolivia, especialmente de Santa Cruz. Consiste en carne de res marinada y asada a la parrilla o sartén, acompañada tradicionalmente con yuca cocida y ensalada fresca.",
+        "Ingredients": [
+          "1 kg de carne de res (corte blando como lomo, cuadril o pulpa)",
+          "4 dientes de ajo, machacados",
+          "2 cucharadas de jugo de limón",
+          "2 cucharadas de vinagre",
+          "1 cucharadita de comino",
+          "1 cucharadita de pimienta negra",
+          "1 cucharadita de orégano",
+          "Sal al gusto",
+          "Aceite vegetal",
+          "1 kg de yuca cocida"
+        ],
+        "Preparation": [
+          "Corta la carne de res en trozos medianos o láminas gruesas.",
+          "En un bol, mezcla el ajo, el jugo de limón, el vinagre, el comino, la pimienta, el orégano, la sal y un chorrito de aceite.",
+          "Agrega la carne y marina durante al menos 1 hora (idealmente 2-3 horas para más sabor).",
+          "Calienta una parrilla o sartén grande a fuego medio-alto.",
+          "Asa la carne hasta que esté bien dorada por ambos lados y en su punto.",
+          "Sirve caliente acompañado de yuca cocida y, si deseas, ensalada de tomate y cebolla."
+        ],
+        "Difficulty": "Fácil",
+        "Cuisine": "Oriental",
+        "Type": "Desayuno",
+        "Servings": 4
+      },
+      {
+        "Id": 14,
+        "Image": "Tucumana.jpg",
+        "Title": "Tucumana",
+        "Description": "La tucumana boliviana es una empanada frita tradicional, muy popular en todo el país. Se caracteriza por su masa crujiente y su relleno jugoso de carne de res, papa y condimentos, acompañada comúnmente con llajwa.",
+        "Ingredients": [
+          "500 g de carne de res picada en cubos pequeños",
+          "2 papas medianas, peladas y cortadas en cubos pequeños",
+          "1 cebolla grande, picada",
+          "2 huevos duros, picados",
+          "1 cucharadita de comino",
+          "1 cucharadita de paprika",
+          "Sal y pimienta al gusto",
+          "Aceite para freír",
+          "12 discos de masa para empanadas (preferiblemente para freír)"
+        ],
+        "Preparation": [
+          "En una sartén, sofríe la cebolla hasta que esté transparente.",
+          "Agrega la carne de res y cocina hasta que cambie de color.",
+          "Incorpora las papas, el comino, la paprika, la sal y la pimienta. Cocina unos minutos más.",
+          "Retira del fuego y deja enfriar ligeramente. Añade el huevo duro picado y mezcla.",
+          "Rellena los discos de masa con la preparación y ciérralos formando empanadas, sellando bien los bordes.",
+          "Calienta abundante aceite y fríe las tucumanas hasta que estén doradas y crujientes.",
+          "Retira y coloca sobre papel absorbente. Sirve calientes, idealmente acompañadas de llajwa."
+        ],
+        "Difficulty": "Media",
+        "Cuisine": "Occidental",
+        "Type": "Picoteo",
+        "Servings": 6
+      }
+
+
     
     
 
